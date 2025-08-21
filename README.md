@@ -15,6 +15,7 @@
 <div>
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
     <img src="https://img.shields.io/badge/Flutter-FF0000?style=flat-square&logo=flutter&logoColor=white">
+    <img src="https://img.shields.io/badge/Dart-FF0000?style=flat-square&logo=dart&logoColor=white">
 </div>
 
 
