@@ -8,7 +8,6 @@
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=chs9902)](https://solved.ac/chs9902)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FLU0RITE&layout=compact&theme=dark)
 
 ## 🔨 Tech Stack 🔨
 <div>
